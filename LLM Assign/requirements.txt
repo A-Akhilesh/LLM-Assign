@@ -1,0 +1,16 @@
+pandas
+datetime
+dotted_dict
+langchain_community
+langchain_openai
+langchain_experimental
+datasets
+ragas
+PyPDF2 == 2.9
+sentence_transformers
+faiss-cpu
+langchain_huggingface
+langchain
+langchain_cohere  
+langchain_google_genai
+streamlit
